@@ -3792,7 +3792,7 @@ depd@~1.1.2:
 
 deprecated-react-native-listview@^0.0.9:
   version "0.0.9"
-  resolved "https://registry.npmjs.org/deprecated-react-native-listview/-/deprecated-react-native-listview-0.0.9.tgz"
+  resolved "https://registry.yarnpkg.com/deprecated-react-native-listview/-/deprecated-react-native-listview-0.0.9.tgz#c5999c25a83ea064624b83ebb0b3498ecf5d84c8"
   integrity sha512-YX85ll+g/B+ezu64C7khyqEcizRRrgbFVx99JIcuBxyB3M6AbOkTDKzd4cSWMYIOSBWqyO7qb93U/YOhquP2uw==
   dependencies:
     create-react-class "*"
@@ -7257,7 +7257,7 @@ react-native-reanimated@~3.3.0:
 
 react-native-router-flux@^4.3.1:
   version "4.3.1"
-  resolved "https://registry.npmjs.org/react-native-router-flux/-/react-native-router-flux-4.3.1.tgz"
+  resolved "https://registry.yarnpkg.com/react-native-router-flux/-/react-native-router-flux-4.3.1.tgz#5869bbf0657a2a34a5ae47b6d6e94e3b10959701"
   integrity sha512-WeNgkHvRGIUz/AlfdSiTAjctgbIzC9oyPJ4yvGKxuM0qohltDjdB4a02vlNSjve7NS+5aSQMEWZAfINgnZGg+w==
   dependencies:
     "@babel/runtime" "^7.6.0"

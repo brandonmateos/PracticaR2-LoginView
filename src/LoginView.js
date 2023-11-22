@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import { StyleSheet, Button, View, Text, TextInput, Image, Alert } from "react-native";
 import { Actions } from "react-native-router-flux";
 
+
+
 export default class LoginView extends Component {
     constructor(props) {
         super(props);
@@ -47,7 +49,8 @@ export default class LoginView extends Component {
                     Alert.alert("Error", "La contraseña no cumple con los requisitos");
                 } else {
                     // Si todo está bien, mostramos un mensaje de éxito
-                    Alert.alert("Éxito", "Has ingresado correctamente");
+                    Alert.alert("Éxito", "Bienvenido");
+                    Actions.home();
                 }
             }
         }
